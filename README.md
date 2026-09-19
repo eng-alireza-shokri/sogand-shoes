@@ -10,7 +10,7 @@ Custom Persian shoe store with searchable catalog, categories, product pages, sh
 
 ## My Contribution
 
-- Custom front-end and back-end implementation
+- AI-assisted custom front-end and back-end implementation, testing, troubleshooting, and integration
 - Searchable product catalog
 - Cart and customer account workflow
 - Administration panel
@@ -18,6 +18,7 @@ Custom Persian shoe store with searchable catalog, categories, product pages, sh
 
 ## Technologies / Focus
 
+- AI-Assisted Custom Development
 - HTML
 - CSS
 - JavaScript
